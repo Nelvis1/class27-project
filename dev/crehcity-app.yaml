@@ -17,5 +17,5 @@ spec:
       containers:
       - name: green-app
         image: nginx:1.14.2
-        ports: 80
+        ports: 
         - containerPort: 80
